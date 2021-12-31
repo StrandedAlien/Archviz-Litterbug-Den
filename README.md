@@ -11,5 +11,5 @@ I have so far uploaded the windows version as a blend file, as i am still trying
 
 Cut!
 
-Rollback, Github does not let me upload a file larger than 25 MB... Need to find a solution first. Sorry.
+Rollback, Github does not let me upload a file larger than 25 MB... Need to find a solution first...
 Found interim solution: Blend is here: https://www.mediafire.com/file/k3rj6gwri1e7qyd/flat.blend/file
