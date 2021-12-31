@@ -1,7 +1,7 @@
 # Archviz-Litterbug-Den
 Attempt of architectural realtime vizualisation using Blender and Armory3d (Work in progress)
 
-https://github.com/StrandedAlien/Archviz-Litterbug-Den/blob/main/WinAOworks.jpg
+![Litterbug-Den](https://github.com/StrandedAlien/Archviz-Litterbug-Den/blob/main/WinAOworks.jpg)
 
 Furniture models are mainly from Sweethome 3D, eTeks. Check licensing here: https://www.sweethome3d.com/license.jsp and/or here
 https://creativecommons.org/licenses/by/3.0/
